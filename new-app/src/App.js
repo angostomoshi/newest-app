@@ -18,7 +18,7 @@ function App() {
         <Button style={{
           position: 'relative',
           top: -600,
-          backgroundColor: 'rgb(0, 0, 0, 0.5)',
+          backgroundColor: 'rgb(0, 0, 0, 1.5)',
           color: '#fff'
         }}>SIGN UP</Button>
         </div>
